@@ -689,27 +689,27 @@ video {
 }
 
 .bg-clearSky {
-  background-image: url(/src/images/clear-sky.jpg);
+  background-image: url(../src/images/clear-sky.jpg);
 }
 
 .bg-cloudy {
-  background-image: url(/src/images/cloudy.png);
+  background-image: url(../src/images/cloudy.png);
 }
 
 .bg-partlyCloud {
-  background-image: url(/src/images/partly-cloud.png);
+  background-image: url(../src/images/partly-cloud.png);
 }
 
 .bg-rainy {
-  background-image: url(/src/images/rainy.png);
+  background-image: url(../src/images/rainy.png);
 }
 
 .bg-snowy {
-  background-image: url(/src/images/snowy.png);
+  background-image: url(../src/images/snowy.png);
 }
 
 .bg-thunderstorm {
-  background-image: url(/src/images/thunderstorm.png);
+  background-image: url(../src/images/thunderstorm.png);
 }
 
 .bg-cover {
